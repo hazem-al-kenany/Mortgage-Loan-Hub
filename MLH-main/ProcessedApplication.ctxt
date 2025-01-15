@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ProcessedApplication
+comment0.text=\r\n\ Status\ (Approved\ or\ rejected)\r\n\ LoanEstimate\r\n\r\n\ \ //\ Define\ a\ method\ to\ determine\ status\ based\ on\ the\ following\:\r\n\ //\ \ \ if\ total\ debts\ >\=\ total\ assets\r\n\ //\ \ \ or\ total\ debts/total\ income\ >\ Debt-to-income\ (DTI)\ ratio\ (of\ the\ lender)\r\n\ //\ \ \ or\ if\ there\ is\ any\ outstanding\ judgments\ against\ borrower\r\n\ \ \ \ //or\ borrower\ has\ been\ declared\ bankrupt\ within\ the\ past\ 7\ years.\r\n\ \ \ \ //or\ borrower\ had\ property\ foreclosed\ upon\ or\ given\ title\ or\ deed\ in\ lieu\ thereof\ in\ the\ last\ 7\ years\r\n\ \ \ \ //or\ borrower\ is\ a\ party\ to\ a\ lawsuit\r\n\ \ \ \ //or\ borrower\ has\ \ directly\ or\ indirectly\ been\ obligated\ on\ any\ loan\ which\ resulted\ in\ foreclosure,\ transfer\ of\ title\ in\ lieu\ of\ foreclosure,\ or\ judgment.\r\n\r\n\r\n\ \ \ \ //\ Define\ a\ method\ to\ create\ the\ LoanEstimate\ (if\ status\ is\ approved)\ based\ on\r\n\ \ \ \ //\ the\ information\ of\ property's\ price,\ lender\ fees,\ interest\ rate\r\n\ \ \ \ //\ otherwise\ (status\ is\ rejected)\ LoanEstimate\ attributes\ will\ be\ -1\ (a\ number\ to\ declare\ rejection\ status)\r\n
+comment1.params=
+comment1.target=ProcessedApplication()
+comment2.params=
+comment2.target=java.lang.String\ getStatus()
+comment3.params=
+comment3.target=LoanEstimate\ getLoanEstimate()
+comment4.params=
+comment4.target=void\ determineStatus()
+comment5.params=propertyPrice
+comment5.target=void\ createLoanEstimate(double)
+numComments=6

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Assets
+comment1.params=
+comment1.target=Assets()
+comment10.params=
+comment10.target=java.util.ArrayList\ getinvestments()
+comment11.params=
+comment11.target=float\ getProceeds()
+comment12.params=
+comment12.target=java.util.ArrayList\ getGiftedFunds()
+comment2.params=bankAccount
+comment2.target=Assets(BankAccount)
+comment3.params=bankAccount
+comment3.target=void\ addBankAccount(BankAccount)
+comment4.params=realProperty
+comment4.target=void\ addRealProperty(java.lang.String)
+comment5.params=investment
+comment5.target=void\ addInvesment(java.lang.String)
+comment6.params=proceeds
+comment6.target=void\ addProceeds(float)
+comment7.params=GiftedFunds
+comment7.target=void\ addGiftedFunds(java.lang.String)
+comment8.params=
+comment8.target=java.util.ArrayList\ getBankAccounts()
+comment9.params=
+comment9.target=java.util.ArrayList\ getRealProperties()
+numComments=13

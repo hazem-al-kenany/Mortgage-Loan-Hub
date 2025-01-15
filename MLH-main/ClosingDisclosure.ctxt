@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ClosingDisclosure
+comment0.text=\n\ Loan_ID\n\ Closing_Date\n\ ClosingCosts\ (Average\ closing\ costs\ for\ the\ buyer\ run\ between\ about\ 2%\ and\ 6%\ of\ the\ loan\ amount.\ )\n
+comment1.params=loanId\ closingDate
+comment1.target=ClosingDisclosure(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getLoanId()
+comment3.params=
+comment3.target=java.lang.String\ getClosingDate()
+comment4.params=
+comment4.target=double\ getClosingCosts()
+comment5.params=loanAmount
+comment5.target=void\ calculateClosingCosts(double)
+numComments=6
