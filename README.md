@@ -1,6 +1,5 @@
-# Mortgage Loan Management System
-
-The **Mortgage Loan Management System** is a Java-based application designed to manage the entire lifecycle of mortgage loans. This system streamlines the process of creating, processing, and closing mortgage applications while integrating borrower, lender, and property information. It also provides detailed functionality for calculating loan estimates, closing costs, and managing the mortgage market.
+# Mortgage Loan Hub
+The **Mortgage Loan Hub** is a Java-based application designed to manage the entire lifecycle of mortgage loans. This system streamlines the process of creating, processing, and closing mortgage applications while integrating borrower, lender, and property information. It also provides detailed functionality for calculating loan estimates, closing costs, and managing the mortgage market.
 
 ---
 
